@@ -1,0 +1,36 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #f1f7b5;
+}
+
+.main-header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    font-style: italic;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.description {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-size: larger;
+}
+
+.main-header,
+.description,
+.ingredients,
+.steps {
+    background-color: #fd8a8a;
+    text-align: center;
+    font-style: italic;
+}
